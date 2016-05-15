@@ -23,7 +23,7 @@ p a {
 .body {
 	text-align: center;
 	display: block;
-	margin-top: 15%;
+	margin-top: 1%;
 }
 
 
@@ -62,7 +62,7 @@ p.updates {
 
  
 #logo {
-	width: 260px;
+	width: 170px;
 	height: auto;
 	margin: 0 auto;
 	padding: 1.5625rem 3.5em 1.5625rem 1.5625rem;
